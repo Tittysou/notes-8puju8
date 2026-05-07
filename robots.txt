@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Tittysou.github.io/notes-8puju8/sitemap.xml
